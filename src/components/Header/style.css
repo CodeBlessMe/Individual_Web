@@ -1,0 +1,20 @@
+.app-header-logo {
+    float: left;
+    height: 100%;
+    margin-top: 0 auto;
+}
+
+.app-header-logo:hover {
+    transform: scale(1.005) !important;
+}
+
+.app-header-menu {
+    float: right !important;
+    font-size: large !important;
+}
+
+.app-header-menu-home span{
+    font-weight: bold;
+    color: #1772b4;
+}
+
